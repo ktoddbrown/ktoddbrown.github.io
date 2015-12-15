@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Computational terrestrial biogeochemistry (or the modeling of how dirt breaths) is a harrowing and exciting field requiring lighting fast reflexes and brute strength. This site documents my humble journey to the exciting world of scientific conferences, workshops, and working groups as well as epic struggles with computational quandaries and other quagmires of the field.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Thoughts and opinions on here are my own and do not reflect those of my employer, mentors, minions, pets, or other parties.
