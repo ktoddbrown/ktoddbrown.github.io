@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2015-12-15 11:32:32 +0000
+comments: True
 tags: [meta]
 ---
 
