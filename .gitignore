@@ -1,7 +1,8 @@
 _site
 .sass-cache
 .jekyll-metadata
-
+raft/*
+rafts/*
 *.yml~
 
 *.html~
