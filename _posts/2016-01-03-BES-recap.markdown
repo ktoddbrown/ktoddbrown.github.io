@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "British Ecological Society 2015 Recap"
+date: 2016-01-03 13:51:00 +0000
+comments: True
 tags: [conferences, twitter]
 ---
 
