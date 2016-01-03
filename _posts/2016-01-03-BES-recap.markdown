@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "British Ecological Society 2015 Recap"
+tags: [conferences, twitter]
+---
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Registration picked up and talk uploaded for my <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a> presentation tomorrow. No idea what time it is now (been up 24hr+) but details…</p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676086668617732102">December 13, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I've been meaning to get over to Europe to try to meet new researcher. However getting across the Pond can be both time consuming and expensive, so I was delighted to receive an invitation to speak at the annual meeting of the British Ecological Society this year in Edinburgh, UK. I tried something new with this conference: live tweeting + summary blog post (here!).
+
+One of the things that struck me about BES and Edinburgh in general was the sense of history. Between old stone castles and long term ecological observational studies there was a definite sense of history that I don't run into often in the USA. 
+
+Highlights of the British Ecological Society 2015 Annual meeting:
+
+* Microbes are tricky
+* Doing better R
+* Data value
+* Conclusions
+
+#Microbes are tricky
+
+As a biogeochemist with a strong interest in microbial ecology I was particularly interested in the microbe talks, which were more or less limited to the session I was speaking in. A little unfortunate considering that biogeochemistry has found a very comfortable home in the Ecological Society of America but I'm glad that my British colleagues are giving a nod to the soils world. Here are some of the highlights from that session:
+
+Allison gave an update on his [DEMENT](http://dx.doi.org/10.1111/j.1461-0248.2012.01807.x) model and laid out some approaches to look at moisture adaptation, trade-offs, and related emergent community behaviors. (Full disclosure: I was Steve's grad student so I think his work is awesome.)
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Allison: What is the cost of drought tolerance in microbes? Dormancy strategies? Exciting ways to use models to explore hypothesis! <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676365385789239296">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Williams looked at fundamental differences in model behavior between first order linear decay and microbial explicit models at the landscape scale.
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Williams: Microbial model insensitive to changes in NPP. Chem model insensitive to quality change. (Potential sensitivity analysis?)<a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676371987103633408">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Christensen cautioned against an overblown methane driven climate change threat and highlights the value of multi-year data sets. 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Christensen: No evidence that natural methane cycle will drive run away GHG evolution. Still interesting science! <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676424173909098497">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Christensen: Not just current but previous years really matter in current emissions. Plus huge year to year parameter uncertainty. <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676425651159715840">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Bestova touched on biogeography of microbes
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Bestova: Is everything everywhere? Not likely. Influence of dispersal and selection on microbial community composition. <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676442849257365504">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Finally some good reminders for future model development both in the session and at the [GRAMP](http://gramp.org.uk/) workshop.
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Williams: We need both fine and coarse scale models. (YES YES YES!) <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676374308650926081">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Jones: Need better data-model integration and evaluation. Just comparing RMSE at the end of the study is not sufficient. <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676384369951526912">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Yeluripati: Model documentation includes structural (code) and parameterization. (I can get behind that) GRAMP <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676406229963579392">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+#Doing R better
+Probably one of the best R workshops I've been to for intermediate skill levels. In general, profile your code via *aprof*, optimize the time intensive bits by pre-allocating space for large data structures, *compiler::compfun* to bit compile, and finally parallelize code via *parallel::mcparallel*. Be careful with shared memory requirements when parallelizing. You should really just read their [article](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004140). (I’m going to go over here and refactor my code base now.)
+
+
+#Data value
+
+Modeling without data can produce some lovely poetry but a more prose description of actual mechanisms or predictions of future trends requires data. Sometimes this data is hard to get, requiring either extensive data collection and curation or labor intensive experiments.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Hill: Intensive compilation of datasets for land use effects on biodiversity. Meta-data study takes effort! <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676447111886610432">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Hill: Predicts (database project) rescued 85% of the data from rotting hard drives previously unavailable to community. WOW <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676448069890744321">December 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Crowther: Human activity, across the globe, is the dominant factor controlling tree density, and it&#39;s a negative effect <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676719824693805058">December 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+And the obligatory mention of model-data fit being site parameter dependent.
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Lehmann: Model works well for tuned parameter, hit or miss generally. <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676732049592569856">December 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Finally no one generates big data like the 'omics folks in ecology, unless it's LIDAR.
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Eichhorn: Ground based 3D scans of the forest, slightly(!) data intensive of 40 forest 50x10(?) m plots <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676746272326467584">December 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Eichhorn: Split stem/leaves based on density of return; leaves move =&gt; less dense. Clever. <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676746559011336192">December 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Eichhorn: GAMM is &#39;wibbily wabbily&#39; regression. I want to take a class from this guy. <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Kathe Todd-Brown (@KatheMathBio) <a href="https://twitter.com/KatheMathBio/status/676747516055068673">December 15, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#Conclusion
+There were some extra things that @BritishEcolSoc did right for #BES2015. 
+
+There was a lovely tea with cookies served at the breaks which also had live birds. I think it was the first time I’ve ever pet a bird which was just plain neat (picture below is NOT me petting an owl but much cuter).
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Not convinced that&#39;s a real <a href="https://twitter.com/hashtag/owl?src=hash">#owl</a> :) <a href="https://twitter.com/NBCBirdandPest">@NBCBirdandPest</a> <a href="https://twitter.com/IanCain16">@IanCain16</a> <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a> <a href="https://twitter.com/BritishEcolSoc">@BritishEcolSoc</a> <a href="https://t.co/jUqHwZH7nZ">pic.twitter.com/jUqHwZH7nZ</a></p>&mdash; David Warren (@NBCDave) <a href="https://twitter.com/NBCDave/status/677180358346063875">December 16, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+There was some fantastic swag from BES including coffee mugs, water bottles of several flavors, and this t-shirt.
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Those <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a> t-shirts were rather large :-D <a href="https://twitter.com/BritishEcolSoc">@BritishEcolSoc</a> <a href="https://t.co/LPP5ZhM43m">pic.twitter.com/LPP5ZhM43m</a></p>&mdash; Dr Jonathan Millett (@DrJonMillett) <a href="https://twitter.com/DrJonMillett/status/678308144330711041">December 19, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I was unable to make the science slam or music nights (I blame jet lag) but heard wonderful things about them from those who did.
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/DrBrianMay">@DrBrianMay</a> have you seen <a href="https://twitter.com/RosieWoodroffe">@RosieWoodroffe</a>&#39;s stand-up act about badgers &amp; control groups? <a href="https://t.co/DM9AymIdjB">https://t.co/DM9AymIdjB</a> <a href="https://twitter.com/hashtag/BES2015?src=hash">#BES2015</a></p>&mdash; Bob O&#39;Hara (@BobOHara) <a href="https://twitter.com/BobOHara/status/677748304726335488">December 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+All in all it was wonderful fun to stretch and try new things. Thanks BES and Edinburgh for great first visit to the UK! 
