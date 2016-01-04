@@ -9,6 +9,8 @@ Add [New tags](http://www.minddust.com/post/tags-and-categories-on-github-pages/
 
 Add [comments](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/)
 
+Add [google analytics](http://joshualande.com/jekyll-github-pages-poole/)
+
 #Standard 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
