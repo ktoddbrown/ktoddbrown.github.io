@@ -4,3 +4,7 @@
   name: conference
 - slug: twitter
   name: [Twitter recap]
+- slug: lit-review
+  name: lit-review
+- slug: SOC-model
+  name: SOC-model
