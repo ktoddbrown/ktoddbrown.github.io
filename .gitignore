@@ -8,3 +8,7 @@ rafts/*
 *.html~
 
 *.markdown~
+
+_drafts/.DS_Store
+
+.DS_Store
