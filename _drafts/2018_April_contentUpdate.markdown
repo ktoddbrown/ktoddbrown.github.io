@@ -38,18 +38,20 @@ Please see our GitHub repositories for further details: https://github.com/ISCN/
 
 ## Process-rich soil carbon models
 
-“How do non-linear microbial dynamics lead to linear ecosystem fluxes?” We know that the vast majority of microbial metabolic rates are non-linear.
-In contrast, carbon out-fluxes on the ecosystem scale are first-order linear; heterotrophic soil respiration is proportional to the amount of total soil organic carbon.
-By developing process-rich models that explicitly include microbial and other underlying processes then examining these processes in a physically heterogeneous context, the goal is be able to better predict the relationship between carbon stocks and out-fluxes.
-
-These new process rich models simulate the pore scale and present their own challenges.
-These pore scale models require detailed representation of not only microbial characteristics like metabolic rates and trade-offs but also the abiotic mineral matrix and substrate diffusion.
-To date, many models focus on microbial processes and mathematically the resulting soil carbon stocks typically exhibit multi-year oscillations, a highly unrealistic behavior for soils.
-I am investigating whether adding additional fundamental processes and parameter heterogeneity has a stabilizing effect on the overall system, however scaling is also a key process under investigation.
-Scaling pore models to larger spatial scales is a major challenge for the field.
-I am investigating a simulation-simplification approach that would consist of simulating as detailed a model as is computationally possible and then simplifying the resulting carbon dynamics via statistical relationships to be again simulated across the next spatial scale.
+Most soil carbon models currently used are rooted in the idea of soil 'quality' and use first-order linear decay kinetics.
+This tends to match ecosystem level observations, after a requisite tuning, but does not explicitly match the underlying processes governing soil carbon dynamics.
+Process-rich models bring these governing processes from an implicit to an explicit representation.
+These process-rich models have opportunities for data integration that are not possible with traditional soil quality based models.
+For example, a quantified qPCR signature for a particular keystone species may be proportional to a microbial pool represented in a process-rich model.
+In addition, process-rich models are frequently non-linear and require new mathematical strategies to work with.
+I am developing new models to incorporate cutting edge data and concepts to inform biogeochemical projections.
 
 ## Reduced complexity soil carbon models
+
+Once we have a soil carbon model we feel comfortable with, we can start formalizing under what conditions that model can be simplified or reduced in complexity.
+My past work has shown that traditional multi-pool soil carbon models simplify to a single pool when soil inputs approximately equal soil outputs, as is the case in most well-developed soils in the field, leading to novel ways to analyze field data and compare simulation outputs.
+This concept of reducing complexity becomes even more relevant when working with newer process rich soil decomposition models.
+I am currently investigating the effects of process-complexity on bulk carbon dynamics under heterogeneous parameterizations and look forward to extending this to inter-connected pore-structure.
 
 # Project recaps
 ## Model driven data analysis
