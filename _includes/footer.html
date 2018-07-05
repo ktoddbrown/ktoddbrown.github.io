@@ -1,19 +1,9 @@
 <footer class="site-footer">
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <!-- <li>{{ site.title }}</li> -->
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-	  <li><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <h2 class="footer-heading">{{ site.title }}</h2>
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -28,12 +18,17 @@
           {% endif %}
         </ul>
       </div>
-
-      <div class="footer-col footer-col-3">
+      <div class="col-md-4">
         <p>{{ site.description }}</p>
+        <ul class="contact-list">
+          <!-- <li>{{ site.title }}</li> -->
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></li>
+        </ul>
       </div>
     </div>
-
   </div>
 
 </footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.bundle.min.js" integrity="sha384-lZmvU/TzxoIQIOD9yQDEpvxp6wEU32Fy0ckUgOH4EIlMOCdR823rg4+3gWRwnX1M" crossorigin="anonymous"></script>

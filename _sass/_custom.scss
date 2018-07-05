@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Rokkitt|Playfair+Display');
+
+body {
+  color: #6c6c59;
+  background-color: #c9ccaf;
+  .post-header {
+    color: #302b28;
+    font-family: 'Playfair Display', cursive;
+  }
+  font-family: 'Rokkitt', sans-serif;
+  a, a:visited {
+    color: #373828;
+    &.navbar-brand {
+    color: #c9ccaf;
+    }
+  }
+}
+
+header.nav {
+  background-color: #302b28;
+  a.nav-link {
+    color: #3081c0;
+    &:hover, a.nav-link.active {
+      background-color: #3081c0;
+      color: #d5eff8;
+    }
+  }
+  a.nav-link.active {
+    background-color: #3081c0;
+    color: #d5eff8;
+  }
+  .navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  a.navbar-brand:hover {
+    color: #d5eff8;
+  }
+}
+
+.site-footer {
+  background-color: #302b28;
+  background-image: url('/assets/logo_bg.png');
+  background-repeat: no-repeat;
+  background-position: right center;
+  border-top: 1px solid #30343a;
+  color: #c9ccaf;
+  a {
+    color: #d5eff8;
+    &:hover {
+      color: #3081c0;
+    }
+  }
+}
+
+.post-content {
+  h1 {
+    font-size: 1.2em;
+    color: #302b28;
+    font-family: 'Playfair Display', cursive;
+  }
+  h2 {
+    color: #302b28;
+    font-family: 'Playfair Display', cursive;
+  }
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+  li {
+    color: #302b28;
+    margin-bottom: .8em;
+    padding: .4em;
+    background-color: #a5a37f;
+    a {
+      color: #103f60;
+    }
+  }
+  a:hover {
+    color: #d5eff8;
+  }
+}
+
+.post-meta {
+  color: #6c6c59;
+}
+
+.navbar-toggler-icon {
+  color: white;
+  padding-top: .3em;
+}
