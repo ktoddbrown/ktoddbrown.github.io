@@ -95,6 +95,10 @@ header.nav {
   padding-top: .3em;
 }
 
+.post-content .icon > svg path {
+  fill : #373828
+}
+
 @media only screen
   and (max-width: 1024px)  {
     .site-footer {
