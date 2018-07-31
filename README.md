@@ -4,6 +4,6 @@ To render this website on a local host
 
 > bundle update
 
-> bundle exc jekyll server
+> bundle exec jekyll server
 
 Then point a browser window to localhost:4000
