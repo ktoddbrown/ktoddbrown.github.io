@@ -51,6 +51,9 @@ header.nav {
     &:hover {
       color: #3081c0;
     }
+    &:visited {
+      color: #3081c0;
+    }
   }
 }
 
@@ -90,4 +93,22 @@ header.nav {
 .navbar-toggler-icon {
   color: white;
   padding-top: .3em;
+}
+
+.post-content .icon > svg path {
+  fill : #373828
+}
+
+@media only screen
+  and (max-width: 1024px)  {
+    .site-footer {
+      background-image: none;
+    }
+}
+
+@media only screen
+  and (max-device-width: 1024px)  {
+    .site-footer {
+      background-image: none;
+    }
 }
