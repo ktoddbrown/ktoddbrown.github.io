@@ -4,14 +4,16 @@ title: Contact Me
 order: 5
 ---
 
+ktoddbrown at@at gmail .dot. com
+
 {% if site.github_username %}
-  {% include icon-github.html username=site.github_username %}
+  Github: {% include icon-github.html username=site.github_username %}
 {% endif %}
 
 {% if site.twitter_username %}
-  {% include icon-twitter.html username=site.twitter_username %}
+  Twitter: {% include icon-twitter.html username=site.twitter_username %}
 {% endif %}
 
-[https://scholar.google.com/citations?user=4qJdWTsAAAAJ](https://scholar.google.com/citations?user=4qJdWTsAAAAJ)
+Google Scholar id: [4qJdWTsAAAAJ](https://scholar.google.com/citations?user=4qJdWTsAAAAJ)
 
-ktoddbrown at@at gmail .dot. com
+ORCID: [0000-0002-3109-8130](http://orcid.org/0000-0002-3109-8130)
