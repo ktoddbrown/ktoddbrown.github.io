@@ -10,6 +10,8 @@ The Carpentries Handbook, [https://docs.carpentries.org/](https://docs.carpentri
 
 The Open Science Training Handbook, [https://legacy.gitbook.com/book/open-science-training-handbook/book/details](https://legacy.gitbook.com/book/open-science-training-handbook/book/details) A living book on what open science is and how to do open science.
 
+Writing Science a blog by Josh Schimel [https://schimelwritingscience.wordpress.com/](https://schimelwritingscience.wordpress.com/) Josh also has one of the best books I've seen on writing science manuscripts and proposals.
+
 ## Repositories and archives
 
 Environmental Data Initiative, [https://environmentaldatainitiative.org/](https://environmentaldatainitiative.org/) Support, training, and resources to help archive as well as publish data and metadata. NSF funded.
