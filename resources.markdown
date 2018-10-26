@@ -17,3 +17,12 @@ Environmental Data Initiative, [https://environmentaldatainitiative.org/](https:
 Environmental Systems Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE) [http://ess-dive.lbl.gov/](http://ess-dive.lbl.gov/) Environmental data repository for DOE funded projects from SBR and TES programs.
 
 Coupled model intercomparison project phase 5 (CMIP5) [https://cmip.llnl.gov/cmip5/](https://cmip.llnl.gov/cmip5/) Earth system model simulation outputs that informed the last IPCC report.
+
+## Climate science reports
+
+2017 US Fourth National Climate Assessment [https://science2017.globalchange.gov/](https://science2017.globalchange.gov/)
+USGCRP, 2017: Climate Science Special Report: Fourth National Climate Assessment, Volume I [Wuebbles, D.J., D.W. Fahey, K.A. Hibbard, D.J. Dokken, B.C. Stewart, and T.K. Maycock (eds.)]. U.S. Global Change Research Program, Washington, DC, USA, 470 pp, doi: 10.7930/J0J964J6.
+
+IPCC (Intergovernmental Panel on Climate Change) Fifth Assessment Report [http://www.ipcc.ch/report/ar5/](http://www.ipcc.ch/report/ar5/) 2013 global climate assessment report with policy advising. The report on the physical science is cited here: IPCC, 2013: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental
+Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley
+(eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1535 pp.
