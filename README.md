@@ -1,6 +1,6 @@
 This is the professional webpage for Kathe Todd-Brown, PhD.
 
-To render this website on a local host 
+To render this website on a local host
 
 > bundle update
 
@@ -8,7 +8,7 @@ To render this website on a local host
 
 Then point a browser window to localhost:4000
 
-Most of the formating is in the _includes
+Most of the formatting is in the _includes
 
 # Notes for changing things
 
