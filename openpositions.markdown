@@ -14,9 +14,9 @@ The Todd-Brown Lab at the University of Florida would like to invite you to appl
 
 The ideal applicate should either have a background in biogeochemistry with a strong interest in modeling and informatics OR a background in mathematics/computer science with a strong interest in soils. Applicants must have excellent written and oral communication skills. Applicants from underrepresented groups are particularly encouraged to apply.
 
-Assistantships include stipend, tuition, and benefits. Interested applicants should email Dr Todd-Brown (kathe.toddbrown [[at]] essie [[dot]] ufl [[dot]] edu) a copy of their CV and a brief cover letter outlining their interests and suitability for the assistantship. 
+Assistantships include stipend, tuition, and benefits. Interested applicants should email Dr Todd-Brown (kathe.toddbrown [[at]] essie [[dot]] ufl [[dot]] edu) a copy of their CV and a brief cover letter outlining their interests and suitability for the assistantship.
 
-Most foreign national applications are not eligable for this specific assistantship but are encougaged to inquire regardless and other lines of funding can be investigaged.
+Most (but not all) foreign national applications are not eligible for this specific assistantship but are encouraged to inquire regardless and other lines of funding can be investigated. Applicants must have excellent written and oral communication skills. 
 
 **Undergraduate researcher**
 
