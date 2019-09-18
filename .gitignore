@@ -9,6 +9,9 @@ rafts/*
 
 *.markdown~
 
+#ignore tilda files
+*~
+
 _drafts/.DS_Store
 
 .DS_Store
