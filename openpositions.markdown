@@ -10,7 +10,7 @@ We are actively recruiting PhD students!
 
 **PhD student**
 
-The Todd-Brown Lab at the University of Florida would like to invite you to apply for one of two PhD students assistantships beginning in Spring or Fall of 2020. Graduate students will have a large degree of freedom to choose their research topic, students with targeted research interests are particularly encouraged to apply. Research in this lab is compute driven. However there are opportunities to collaborate with field and bench scientists, and students should expect to interact regularly with non-computational researchers.
+The Todd-Brown Lab at the University of Florida would like to invite you to apply for one of two PhD students assistantships beginning in Fall of 2020 or Spring of 2021. Graduate students will have a large degree of freedom to choose their research topic, students with targeted research interests are particularly encouraged to apply. Research in this lab is compute driven. However there are opportunities to collaborate with field and bench scientists, and students should expect to interact regularly with non-computational researchers.
 
 The ideal applicate should either have a background in biogeochemistry with a strong interest in modeling and informatics OR a background in mathematics/computer science with a strong interest in soils. Applicants must have excellent written and oral communication skills. Applicants from underrepresented groups are particularly encouraged to apply.
 
