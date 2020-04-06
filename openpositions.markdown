@@ -28,10 +28,10 @@ We are looking for students to work with a project with two main goals: estimate
 
 Students will work on one of three topics:
 
-  1)	Uncertainty analysis of land classification-based maps of soil and vegetation carbon stocks in protected areas and evaluation of within-site variance in carbon stocks as a contributor to uncertainty
-  2)	Development of a user interface for the Growth-Burn-Decay (GBD) model and refinement of parameterization including sensitivity analysis
-  3)	Scenario development in the GBD model to evaluate the impact of ecosystem shifts in response to fire in the land carbon dynamics
+    1)	Uncertainty analysis of land classification-based maps of soil and vegetation carbon stocks in protected areas and evaluation of within-site variance in carbon stocks as a contributor to uncertainty
+    2)	Development of a user interface for the Growth-Burn-Decay (GBD) model and refinement of parameterization including sensitivity analysis
+    3)	Scenario development in the GBD model to evaluate the impact of ecosystem shifts in response to fire in the land carbon dynamics
 
 Students will be working on teams and should be comfortable using R/Rmarkdown to conduct one or more of the following tasks: ingest data, create figures, work with ordinary differential equations using numerical solvers, document software, and create scientific reports. Students with a background and interest in land biogeochemistry are particularly encouraged to apply.
 
- Interested applicants should email Dr Todd-Brown (kathe.toddbrown [[at]] essie [[dot]] ufl [[dot]] edu) a copy of their CV and a brief cover letter outlining their interests and suitability for the assistantship.
+ Interested applicants should email Dr Todd-Brown (kathe.toddbrown [[at]] essie [[dot]] ufl [[dot]] edu) a copy of their CV and a brief cover letter outlining their interests and suitability for the position.
