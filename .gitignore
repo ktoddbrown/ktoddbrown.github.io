@@ -3,15 +3,20 @@ _site
 .jekyll-metadata
 raft/*
 rafts/*
-*.yml~
-
-*.html~
-
-*.markdown~
 
 #ignore tilda files
 *~
+OLD/
+*.yml~
+*.html~
+*.markdown~
 
+#ignore DS files
 _drafts/.DS_Store
-
 .DS_Store
+
+#Rfiles
+*.Rproj
+.Rhistory
+.Rproj.user/
+_Rmd/publications.html

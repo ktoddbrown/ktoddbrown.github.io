@@ -1,0 +1,10 @@
+---
+title: "Publications"
+date: "Updated: 2021 December 30"
+output: 
+  html_document: 
+    keep_md: yes
+bibliography: ToddBrownPapers.bib
+csl: copernicus-publications.csl
+nocite: '@*'
+---
