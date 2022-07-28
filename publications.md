@@ -6,8 +6,11 @@ order: 4
 
 Google Scholar: [4qJdWTsAAAAJ](https://scholar.google.com/citations?user=4qJdWTsAAAAJ) 
 
+## 2022
+  1. **Todd-Brown**, K. E. O., Abramoff, R. Z., Beem-Miller, J., Blair, H. K., Earl, S., Frederick, K. J., Fuka, D. R., Guevara Santamaria, M., Harden, J. W., Heckman, K., Heran, L. J., Holmquist, J. R., Hoyt, A. M., Klinges, D. H., LeBauer, D. S., Malhotra, A., McClelland, S. C., Nave, L. E., Rocci, K. S., Schaeffer, S. M., Stoner, S., van Gestel, N., von Fromm, S. F., and Younger, M. L.: Reviews and syntheses: The promise of big diverse soil data, moving current practices towards future potential, Biogeosciences, 19, 3505–3522, https://doi.org/10.5194/bg-19-3505-2022, 2022.
+  2. Logan, J. R., **Todd-Brown**, K. E., Jacobson, K. M., Jacobson, P. J., Vogt, R., and Evans, S. E.: Accounting for non-rainfall moisture and temperature improves litter decay model performance in a fog-dominated dryland system, Biogeosciences Discuss. [preprint], https://doi.org/10.5194/bg-2022-16, in press, 2022.
+
 ## 2021
-  1. **Todd-Brown**, K. E. O., Abramoff, R. Z., Beem-Miller, J., Blair, H. K., Earl, S., Frederick, K. J., Fuka, D. R., Guevara Santamaria, M., Harden, J. W., Heckman, K., Heran, L. J., Holmquist, J. R., Hoyt, A. M., Klinges, D. H., LeBauer, D. S., Malhotra, A., McClelland, S. C., Nave, L. E., Rocci, K. S., Schaeffer, S. M., Stoner, S., Gestel, N. van, Fromm, S. F. von, and Younger, M. L.: Reviews and syntheses: The promise of big soil data, moving current practices towards future potential, 2021, 1–22, https://doi.org/10.5194/bg-2021-323, 2021.
   8. Luk, S. Y., **Todd-Brown**, K., Eagle, M., McNichol, A. P., Sanderman, J., Gosselin, K., and Spivak, A. C.: Soil organic carbon development and turnover in natural and disturbed salt marsh environments, 48, e2020GL090287, https://doi.org/10.1029/2020GL090287, 2021.
 
 ## 2020
