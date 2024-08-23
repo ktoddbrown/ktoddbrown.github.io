@@ -2,7 +2,12 @@ This is the professional webpage for Kathe Todd-Brown, PhD.
 
 To render this website on a local host
 
+Updates runs very very slow
 > bundle update
+
+It is faster to install instead, which uses the Gemfile to constructe Gemfile.lock
+
+> bundle install
 
 > bundle exec jekyll server
 

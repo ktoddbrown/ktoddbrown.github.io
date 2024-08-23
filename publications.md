@@ -6,9 +6,27 @@ order: 4
 
 Google Scholar: [4qJdWTsAAAAJ](https://scholar.google.com/citations?user=4qJdWTsAAAAJ) 
 
+ORCID: [0000-0002-3109-8130](http://orcid.org/0000-0002-3109-8130)
+
+## 2024
+
+1. Vahsen, M. L., **Todd-Brown**, K., Hicks, J., Pilyugin, S. S., Morris, J. T., and Holmquist, J. R.: Cohort marsh equilibrium model (CMEM): History, mathematics, and implementation, Journal of Geophysical Research: Biogeosciences, 129, e2023JG007823, https://doi.org/10.1029/2023JG007823, 2024.
+
+2. Lennon, J., Abramaoff, R., Allison, S., Burckhardt, R., DeAngelis, K., Dunne, J., Frey, S., Friedlingstein, P., Hawkes, C., Hungate, B., Khurana, S., Kivlin, S., Levine, N., Manzoni, S., Martiny, A., Martiny, J., Nguyen, N., Rawat, M., Talmy, D., **Todd-Brown**, K., Vogt, M., Wieder, W., and Zakem, E.: Priorities, opportunities, and challenges for integrating microorganisms into earth system models for climate change prediction, mBio, e00455-24, https://doi.org/10.1128/mbio.00455-24, 2024.
+
+3. Wang, Z., Kumar, J., Weintraub-Leff, S. R., **Todd-Brown**, K., Mishra, U., and Sihi, D.: Upscaling soil organic carbon measurements at the continental scale using multivariate clustering analysis and machine learning, Journal of Geophysical Research: Biogeosciences, 129, e2023JG007702, https://doi.org/10.1029/2023JG007702, 2024.
+Holmquist, J. R., Klinges, D., Lonneman, M., Wolfe, J., Boyd, B., Eagle, M., Sanderman, J., Todd-Brown,K., Belshe, E. F., Brown, L. N., Chapman, S., Corstanje, R., Janousek, C., Morris, J. T., Noe, G., Rovai,A., Spivak, A., Vahsen, M., Windham-Myers, L., Kroeger, K., and Megonigal, J. P.: The coastal carbon library and atlas: Open source soil data and tools supporting blue carbon research and policy, Global Change Biology, 30, e17098, https://doi.org/10.1111/gcb.17098, 2024.
+
+## 2023
+
+4. Safanelli, J. L., Sanderman, J., Bloom, D., **Todd-Brown**, K., Parente, L. L., Hengl, T., Adam, S., Albinet, F., Ben-Dor, E., Boot, C. M., Bridson, J. H., Chabrillat, S., Deiss, L., Demattê, J. A. M., Scott Demyan, M., Dercon, G., Doetterl, S., van Egmond, F., Ferguson, R., Garrett, L. G., Haddix, M. L., Haefele, S. M., Heiling, M., Hernandez-Allica, J., Huang, J., Jastrow, J. D., Karyotis, K., Machmuller, M. B., Khesuoe, M., Margenot, A., Matamala, R., Miesel, J. R., Mouazen, A. M., Nagel, P., Patel, S., Qaswar, M., Ramakhanna, S., Resch, C., Robertson, J., Roudier, P., Sabetizade, M., Shabtai, I., Sherif, F., Sinha, N., Six, J., Summerauer, L., Thomas, C. L., Toloza, A., Tomczyk-Wójtowicz, B., Tsakiridis, N. L., van Wesemael, B., Woodings, F., Zalidis, G. C., and Żelazny, W. R.: An inter laboratory comparison of mid-infrared spectra acquisition: Instruments and procedures matter, Geoderma, 440, 116724, https://doi.org/10.1016/j.geoderma.2023.116724, 2023.
+
+5. Vahsen, M. L., Blum, M. J., Megonigal, J. P., Emrich, S. J., Holmquist, J. R., Stiller, B., **Todd-Brown**, K. E. O., and McLachlan, J. S.: Rapid plant trait evolution can alter coastal wetland resilience to sea level rise, Science, 379, 393–398, https://doi.org/10.1126/science.abq0595, 2023.
+
 ## 2022
   1. **Todd-Brown**, K. E. O., Abramoff, R. Z., Beem-Miller, J., Blair, H. K., Earl, S., Frederick, K. J., Fuka, D. R., Guevara Santamaria, M., Harden, J. W., Heckman, K., Heran, L. J., Holmquist, J. R., Hoyt, A. M., Klinges, D. H., LeBauer, D. S., Malhotra, A., McClelland, S. C., Nave, L. E., Rocci, K. S., Schaeffer, S. M., Stoner, S., van Gestel, N., von Fromm, S. F., and Younger, M. L.: Reviews and syntheses: The promise of big diverse soil data, moving current practices towards future potential, Biogeosciences, 19, 3505–3522, https://doi.org/10.5194/bg-19-3505-2022, 2022.
-  2. Logan, J. R., **Todd-Brown**, K. E., Jacobson, K. M., Jacobson, P. J., Vogt, R., and Evans, S. E.: Accounting for non-rainfall moisture and temperature improves litter decay model performance in a fog-dominated dryland system, Biogeosciences Discuss. [preprint], https://doi.org/10.5194/bg-2022-16, in press, 2022.
+  
+  2. Logan, J. R., **Todd-Brown**, K. E., Jacobson, K. M., Jacobson, P. J., Vogt, R., and Evans, S. E.: Accounting for non-rainfall moisture and temperature improves litter decay model performance in a fog-dominated dryland system, Biogeosciences, 19, 4129–4146, https://doi.org/10.5194/bg-19-4129-2022, 2022.
 
 ## 2021
   8. Luk, S. Y., **Todd-Brown**, K., Eagle, M., McNichol, A. P., Sanderman, J., Gosselin, K., and Spivak, A. C.: Soil organic carbon development and turnover in natural and disturbed salt marsh environments, 48, e2020GL090287, https://doi.org/10.1029/2020GL090287, 2021.

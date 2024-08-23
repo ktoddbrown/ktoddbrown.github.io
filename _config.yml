@@ -12,8 +12,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: ktoddbrown.github.io
 url: "https://ktoddbrown.github.io" # the base hostname & protocol for your site
-twitter_username: KatheMathBio
+mastodon_username: ktoddbrown
 github_username:  ktoddbrown
+email_username: ktoddbrown
 
 # This is the list of pages to incldue in the header of the website.
 pages_list: {'About':'/about', 'Archive':'/archive'}
