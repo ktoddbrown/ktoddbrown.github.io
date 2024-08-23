@@ -17,4 +17,4 @@ I have been a Postdoctoral Fellow (2019) with Drs Jennifer Baltzer (Wilfred Laur
 I received my PhD (2013) from the University of California, Irvine from the Earth System Science Department. I also hold a Bachelor of Science (2004) from Harvey Mudd College in Claremont, California in Mathematics and I have worked as a software developer for bioinformatics tools at Massachusetts General Hospital in Boston, Massachusetts.
 
 
-Thoughts and opinions on here are my own and do not reflect those of my employer, mentors, minions, pets, or other parties.
+Thoughts and opinions on here are my own and do not reflect those of my employer, mentors, students, minions, pets, or other parties.
