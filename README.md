@@ -4,7 +4,8 @@ To render this website on a local host
 
 > bundle update
 
-If this runs very slow then you need to check that the `gem 'github-pages'` is up to date (https://rubygems.org/gems/github-pages), delete the Gemfile.lock, and then run `bundle install`
+If this runs very slow then you need to check that the `gem 'github-pages'` is up to date (https://rubygems.org/gems/github-pages), delete the Gemfile.lock, and then run `bundle install`.
+You might also need to do this if you are getting regular dependency bot messages.
 
 > bundle exec jekyll server
 
